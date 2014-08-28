@@ -52,12 +52,12 @@ Fsmkwebpage
 	<div id="div3">
 	<h2>Why Free Softwares is important ! 
 	<br>by Bill Gates</h2>
-	<p>Contents:Session will mainly be about hoe Free Software would</p>
+	<p>Contents:Session will mainly be about how Free Software makes an impact</p>
 	</div>
 </div>
 <div id="div4">
 	<div id="div5">
-	<h3 id="h3">Why Privcy is important!<br>by Mark Zuckerburg</h3>
+	<h3 id="h3">Why Privacy is important!<br>by Mark Zuckerburg</h3>
 	</div>
 	<div id="div6">
 	<h4 id="h4">How broken is the patent system!<br>by Tim Cook</h4>
